@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="UserNamer">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>

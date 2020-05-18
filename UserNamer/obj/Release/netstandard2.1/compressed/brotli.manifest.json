@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IRBoOHSX49tNu-tRLl1etOZdBRMYYjGDAKeGA7bieTk=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4ZSSoSwmVb1_80IucUnhPtDRsbASvoBj5zF1EP_diHI=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5D7ryd0iOSP_LrRaUOyVr0VRX69I15iMI2KgxYHXgrY=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7Yx6FPdXakLsfof9f5KcRKxUQQfYglvtv6fAxOrYFzo=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hbHFS6gXyUxwvkcwLggsiuXasNsWvXVGAO_d8B7PLaI=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\9AjLIUjNJlAcyHSA5h4r_K-ED6oUdD1X_yPSg7kWacQ=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\odIMDIaAbQw-ByLqqG6FoWjcZDOK0GpbPwFuKMwiS9U=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\y4w4MKv91i78_pCNvGqycummCLvi5ZZ-rc6iyCZcOPk=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\WnB5hyP0IiMyR014tAwPRjuQv3kF6BgdfOwZgj_UBhI=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EwSmWUX1YldLOwpyJrKSBBkTeoXU56gndy6TK_Dv8lc=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4J-0W0pX_-36xYiICIKDAst7DkAXrPFnQ-_wmgLNQTM=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oiFbiX-6wdbMdiDIjEpCdB1PoaXwvFlO4YLlq-sNp54=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6g2dLhGUTDM61qYCCZ0XbEEq1ph7WIGsa0EGamodSZQ=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8fmSnhIquMMd2uXGwxbQzkRlDi-JVmRdBup-l-mmOkQ=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NwuTDGmp9fk2v61sB_rnGZkYt1UdNzOLqt_Uyz6ET-4=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\InIPXtgo04atVWyUU6WwzkVeJApwH3QxKeW9LjvDZfk=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HTX0wgW1fMnsY8gxWbwErwPgQUhFDZR7T-KQneRwnGc=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8x27qUfrhUIEtGZEK0eAUDVSomF4Mbl0v3hmCEHKraM=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PKUCes0kB-oFI33sssWB08DqbH-pBT148UOdlqTW2OE=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\F6GlaADqwt4sFIAJaNyXGyyUQFu7A7ctBR0a5sER51Q=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vk3369gedUIa0CiA8QMR44IzCCp_i4tXQX09Q6jwxws=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\T0YjLLXVjNgg1n7N_kLYU5KGhmOdHXVUpfEyrs3dhiU=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bLiTyGsGOjxzaBECYxGvY2X-NPaqRfAzy7I_ek-yKN4=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\UserNamer.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/UserNamer.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2FJehwCvkV8QDE-rH3UCKLq5vtOmfHg5LOpuiiDX7ss=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\iZCHkFXJWYNxCUFwhj_4oqR4fkEJc5YGjfTTvdIuX84=.hash",
+      "Source": "C:\\Users\\Trsa\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0-rc1.20222.2\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0-rc1.20222.2.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0-rc1.20222.2.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\Trsa\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0-rc1.20222.2\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aFsebAaVKCmJl2K5EZooCF0zL34DsPr_kGZLo6WC_2c=.hash",
+      "Source": "C:\\Users\\Trsa\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0-rc1.20222.2\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SWtTaJ9XhCu62X17HfpwA9cLqrTGBo3YshChG82f6Xg=.hash",
+      "Source": "C:\\Users\\Trsa\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.0-rc1.20223.4\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VrHXtRnNJ8c3B7ZF26TX_W0qmILJp3Z3YRYbieqgvV4=.hash",
+      "Source": "C:\\Users\\Trsa\\source\\Repos\\UserNamer\\UserNamer\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    }
+  ]
+}
